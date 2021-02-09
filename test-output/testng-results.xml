@@ -5,12 +5,12 @@
       <![CDATA[Hi--]]>
     </line>
   </reporter-output>
-  <suite name="Suite" duration-ms="126" started-at="2021-02-08T17:31:36 IST" finished-at="2021-02-08T17:31:36 IST">
+  <suite name="Suite" duration-ms="142" started-at="2021-02-09T16:45:17 IST" finished-at="2021-02-09T16:45:17 IST">
     <groups>
     </groups>
-    <test name="Test" duration-ms="126" started-at="2021-02-08T17:31:36 IST" finished-at="2021-02-08T17:31:36 IST">
+    <test name="Test" duration-ms="142" started-at="2021-02-09T16:45:17 IST" finished-at="2021-02-09T16:45:17 IST">
       <class name="Demo">
-        <test-method status="PASS" signature="TC()[pri:0, instance:Demo@5c5a1b69]" name="TC" duration-ms="20" started-at="2021-02-08T17:31:36 IST" finished-at="2021-02-08T17:31:36 IST">
+        <test-method status="PASS" signature="TC()[pri:0, instance:Demo@6737fd8f]" name="TC" duration-ms="21" started-at="2021-02-09T16:45:17 IST" finished-at="2021-02-09T16:45:17 IST">
           <reporter-output>
             <line>
               <![CDATA[Hi--]]>
